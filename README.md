@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)
 
-- ⚡ Connections **I like to interact with new people**
+- ⚡  **I like to interact with new people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
