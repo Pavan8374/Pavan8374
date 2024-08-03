@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working in **a Sartup as a Software developer**
 
-- 🌱 I’m currently learning **Django**
-
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
 - 👨‍💻 All of my projects are available at [https://aspirefolio.link/](https://aspirefolio.link/)
