@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 👨‍💻 All of my projects are available at [https://aspirefolio.link/](https://aspirefolio.link/)
+- 👨‍💻 All of my projects are available at [https://pavan-rambhukta.vercel.app/](https://pavan-rambhukta.vercel.app/)
 
 - 💬 Ask me about **AI, ML, Algorithms, Database**
 
