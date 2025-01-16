@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan8374&show_icons=true&locale=en" alt="pavan8374" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan8374&" alt="pavan8374" /></p>
+![Alt](https://repobeats.axiom.co/api/embed/08ae75a43e20c182a15b852d5980ddba41e6530d.svg "Repobeats analytics image")
