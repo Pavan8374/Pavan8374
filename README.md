@@ -11,6 +11,7 @@
 - 🔭 **Currently working in a startup as a Software Developer.**
 - 👯 Looking to **collaborate on AI/ML projects.**
 - 👨‍💻 Explore my projects: [Portfolio Website](https://pavan-rambhukta.vercel.app/)
+- 👨‍💻 Explore my tech articles: [Medium](https://medium.com/@rpavank2000)
 - 💬 **Ask me about:** AI, ML, Algorithms, and Databases.
 - 📫 **Reach me at:** rpavank2000@gmail.com
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)
