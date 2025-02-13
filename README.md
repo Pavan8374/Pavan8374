@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavan Rambhukta</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavan8374&label=Profile%20Views&color=0e75b6&style=flat" alt="pavan8374" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Pavan8374/count.svg" />
 </p>
 
 ---
@@ -34,6 +35,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
