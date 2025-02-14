@@ -28,14 +28,14 @@
   <a href="https://instagram.com/https://www.instagram.com/pa1.pixels/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-</p>
+</
+p>
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
