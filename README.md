@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pavan Rambhukta</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<div align="center">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Pavan8374/count.svg" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+diverse+open-source+projects;Always+learning%2C+always+growing;Let's+collaborate!)](https://git.io/typing-svg)
 
----
+</div>
+
+<div align="center">
+
+### 👾 Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/rpa1k/count.svg)
+
+### 🌱 Let's grow together!
+If you find my projects interesting, consider giving them a ⭐
+
+</div>
 
 ### 🖥️ About Me
 - 🔭 **Currently working in a startup as a Software Developer.**
@@ -18,68 +25,82 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)
 - ⚡ Fun Fact: **I enjoy interacting with new people!**
 
----
 
-### 🌐 Connect With Me
+<h2 align="center">My Tech Stack</h2>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-kumar-169019214/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/https://www.instagram.com/pa1.pixels/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-</
-p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" />
-  </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Content_delivery_network" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/akamai/akamai-icon.svg" alt="CDN" width="50" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
-  </a>
-  
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
 </p>
 
----
+<h3 align="center">Frontend</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Material%20UI-757575?style=for-the-badge&logo=materialdesign&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Message%20Queue-FF6F00?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/NUnit-2D572C?style=for-the-badge&logo=nunit&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/gRPC-00BFA5?style=for-the-badge&logo=grpc&logoColor=white" />
+</p>
+
+<h3 align="center">Cloud & Azure Services</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure%20SQL%20Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure%20AI%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure%20Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cosmos%20DB-005571?style=for-the-badge&logo=azurecosmosdb&logoColor=white" />
+</p>
+
+<h3 align="center">Databases & Caching</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<h3 align="center">Architecture & Development</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservice&logoColor=white" />
+    <img src="https://img.shields.io/badge/Event%20Driven-8E44AD?style=for-the-badge&logo=event&logoColor=white" />
+    <img src="https://img.shields.io/badge/Domain%20Driven%20Design-3498DB?style=for-the-badge&logo=ddd&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean%20Architecture-16A085?style=for-the-badge&logo=cleanarchitecture&logoColor=white" />
+</p>
+
+<h3 align="center">Tools & DevOps</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
+
+
+</div>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -97,3 +118,15 @@ p>
     <img src="https://github-profile-trophy.vercel.app/?username=pavan8374&theme=radical&column=7" alt="Trophies" />
   </a>
 </p>
+
+<div id="contact" align="center">
+  <h2>📫 Let's Connect!</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-169019214/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rpavan_k)
+  
+  <!-- Fun element: Custom "Buy Me a Coffee" button -->
+  <a href="YOUR_BUY_ME_A_COFFEE_URL">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+  </a>
+</div>
