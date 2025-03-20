@@ -2,7 +2,7 @@
 
 ![Big Yummy Donut](https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dripwelcome1.gif)![Big Yummy Donut](https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/donuts.gif)![Big Yummy Donut](https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dripwelcome2.gif)
 
-<p> Hi, I'm Pavan Rambhukta, a Passionate software developer, and OSS Contributor </p>
+ ### Hi, I'm Pavan Rambhukta, a Passionate software developer, and OSS Contributor
 <img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 <div align="center">
 
@@ -26,7 +26,8 @@ If you find my projects interesting, consider giving them a ⭐
 - 🔭 **Currently working in a startup as a Software Developer.**
 - 👯 Looking to **collaborate on AI/ML projects.**
 - 👨‍💻 Explore my projects: [Portfolio Website](https://pavan-rambhukta.vercel.app/)
-- 👨‍💻 Explore my tech articles: [Medium](https://medium.com/@rpavank2000)
+- 👨‍💻 Explore my tech articles: [Medium](https://medium.com/@rpavank2000
+)
 - 💬 **Ask me about:** AI, ML, Algorithms, and Databases.
 - 📫 **Reach me at:** rpavank2000@gmail.com
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)
@@ -34,7 +35,7 @@ If you find my projects interesting, consider giving them a ⭐
 <img src="https://raw.githubusercontent.com/HotCakeX/.github/febfcc2b3be66ef0d5ecd74694157622a7fde865/Pictures/SVG/SVG%20line%20wave%20yellow%20pink.svg" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 
-<h2 align="center">My Tech Stack</h2>
+ ### My Tech Stack
 <h3 align="center">Languages</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -130,8 +131,9 @@ If you find my projects interesting, consider giving them a ⭐
   </a>
 </p>
 
+<img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 <div id="contact" align="center">
-  <h2>📫 Let's Connect!</h2>
+  ### 📫 Let's Connect!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-169019214/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rpavan_k)
