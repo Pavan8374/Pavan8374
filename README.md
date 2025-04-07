@@ -1,6 +1,6 @@
 <div align="center">
 
-![Big Yummy Donut](https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dripwelcome1.gif)![Big Yummy Donut](https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/donuts.gif)![Big Yummy Donut](https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dripwelcome2.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3gzczUydWt5OTJvZzFzNXVtNjQzdTg0aDZxdzNxdjRlc2h6YnFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtCAXWS94FZbWiKmKH/giphy.gif">
 
  ### Hi, I'm Pavan Rambhukta, a Passionate software developer, and OSS Contributor
 <img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
