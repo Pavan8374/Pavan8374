@@ -30,7 +30,8 @@ If you find my projects interesting, consider giving them a ⭐
 )
 - 💬 **Ask me about:** AI, ML, Algorithms, and Databases.
 - 📫 **Reach me at:** rpavank2000@gmail.com
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)
+-
+ 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)
 - ⚡ Fun Fact: **I enjoy interacting with new people!**
 <img src="https://raw.githubusercontent.com/HotCakeX/.github/febfcc2b3be66ef0d5ecd74694157622a7fde865/Pictures/SVG/SVG%20line%20wave%20yellow%20pink.svg" width= "300000" alt="horizontal super thin rainbow RGB line">
 
@@ -133,7 +134,8 @@ If you find my projects interesting, consider giving them a ⭐
 
 <img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 <div id="contact" align="center">
-  ### 📫 Let's Connect!
+ 
+### 📫 Let's Connect!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-169019214/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rpavan_k)
