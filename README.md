@@ -2,7 +2,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3gzczUydWt5OTJvZzFzNXVtNjQzdTg0aDZxdzNxdjRlc2h6YnFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtCAXWS94FZbWiKmKH/giphy.gif">
 
- ### Hi, I'm Pavan Rambhukta, a Passionate software developer, and OSS Contributor
+ ### Hi, I'm Pavan Rambhukta, a Passionate software developer and OSS Contributor
 <img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 <div align="center">
 
@@ -28,7 +28,8 @@ If you find my projects interesting, consider giving them a ⭐
 - 👨‍💻 Explore my projects: [Portfolio Website](https://pavan-rambhukta.vercel.app/)
 - 👨‍💻 Explore my tech articles: [Medium](https://medium.com/@rpavank2000
 )
-- 💬 **Ask me about:** AI, ML, Algorithms, and Databases.
+- 💬 **Ask me about:**
+ AI, ML, Algorithms, and Databases.
 - 📫 **Reach me at:** rpavank2000@gmail.com
 -
  📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12HMJcJQPs2Mg7xpZNfudvv0kpLUDMTiw/view?usp=sharing)
