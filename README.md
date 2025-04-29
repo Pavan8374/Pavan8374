@@ -142,7 +142,7 @@ If you find my projects interesting, consider giving them a ⭐
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rpavan_k)
   
   <!-- Fun element: Custom "Buy Me a Coffee" button -->
-  <a href="YOUR_BUY_ME_A_COFFEE_URL">
+[  <a href="YOUR_BUY_ME_A_COFFEE_URL">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-  </a>
+  </a>](url)
 </div>
